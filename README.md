@@ -1,4 +1,4 @@
-# to-do-list
+# To-Do List
 ## LiveLink: https://pfizzz.github.io/to-do-list/
 To-do list made with javaScript and Bootstrap. Features a search bar to filter results.
 
